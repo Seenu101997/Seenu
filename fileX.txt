@@ -1,2 +1,2 @@
 Hello All!!
-We're trying to learn Git Internals
+We're trying to learn Git Internal/Objects
