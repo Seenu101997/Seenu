@@ -1,0 +1,2 @@
+Hello All!!
+We're trying to learn Git Internals
